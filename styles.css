@@ -3,3 +3,7 @@ html {
   width: 100%;
   background-color: yellow;
 }
+
+img {
+  border: 5px solid black;
+}
